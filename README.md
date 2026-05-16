@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Cappy 👋
 
-<!--
-**ceekayfosho/ceekayfosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 21-year-old Security Professional based in Johannesburg, South Africa, driven to transition into Information Technology and Cybersecurity. 
 
-Here are some ideas to get you started:
+🚀 **My Reality:** Right now, I don't own a computer. I am teaching myself Python programming, network security, and Linux administration entirely on my **Samsung A04 mobile phone** using Termux. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ **Current Security Projects:**
+- **[Watchman](https://github.com/ceekayfosho/CyberWork)**: A lightweight, mobile-optimized file integrity monitor and automated network honeypot/listener that logs intruder IPs in real-time.
+
+💻 **The Laptop Goal:** I set up GitHub Sponsors to help fund a pre-owned, production-ready laptop. Getting a machine will allow me to run proper virtual environments (like Kali Linux), manage complex automations, and prepare for formal IT certifications.
+
+⚡ *“Hungry to look deeper into the matrix, one script at a time.”*
+
